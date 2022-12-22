@@ -1,16 +1,6 @@
 # news_app
 
-A new Flutter project.
+This application is based on the flutter BloC pattern and contains api calls to NewsApi to fetch articles based on top heaslines, sports and business and these articles can also be shared to other users using the url to the original website which published them.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

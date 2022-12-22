@@ -24,7 +24,8 @@ class Article {
     title = json['title'] ?? 'NA';
     description = json['description'] ?? "NA";
     url = json['url'] ?? "NA";
-    urlToImage = json['urlToImage'] ?? "NA";
+    urlToImage = json['urlToImage'] ??
+        "https://cdn.pixabay.com/photo/2013/07/12/19/16/newspaper-154444_960_720.png";
     publishedAt = json['publishedAt'] ?? "NA";
     content = json['content'] ?? "NA";
   }
